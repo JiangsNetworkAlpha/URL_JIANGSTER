@@ -1,9 +1,9 @@
-name: QRcraft
+name: URL_JIANGSTER
 version: 1.0.4
 api: 1.0.0
 main: clodyx\qrcraft\QRcraftPlugIn
 author: Clodyx
-description: QRcraft by Clodyx
+description: QRCIDE
 commands:
  qr:
   description: "Help page QRcraft"
